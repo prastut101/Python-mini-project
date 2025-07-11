@@ -6,7 +6,7 @@ water = -1
 
 """
 print("---SNAKE WATER GUN GAME---")
-print("---CHOOSE NOW---")
+print("---CHOOSE NOW---hangmahan")
 choices = ["snake","gun","water"]
 computer_choice = random.choice(choices)
 choice2 = (input("Enter choice:")).lower()
